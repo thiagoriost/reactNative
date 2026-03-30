@@ -5,11 +5,17 @@ Folloe nex stetps
 https://expo.dev/new/develop
 
 
-npx create-expo-app@latest --template default@sdk-54 ./
+1. npx create-expo-app@latest --template default@sdk-54 ./
 
-npx expo start
+2. npx expo start
 
-scan code generated
+3. scan code generated
 
-stop and to reset project by default
+4. stop and to reset project by default
 npm run reset-project
+
+5. npx expo install nativewind@preview react-native-css react-native-reanimated react-native-safe-area-context
+
+6. from https://www.nativewind.dev/v5/getting-started/installation
+    run
+    npx expo customize metro.config.js
