@@ -19,3 +19,7 @@ npm run reset-project
 6. from https://www.nativewind.dev/v5/getting-started/installation
     run
     npx expo customize metro.config.js
+
+
+    utilities:
+        npx expo start --clear
